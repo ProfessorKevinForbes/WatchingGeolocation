@@ -5,7 +5,7 @@
         id          = "edu.iupui.n300.WatchingGeolocation"
         version     = "1.0.0" >
 
-    <name>Simple Geolocation</name>
+    <name>Watching Geolocation</name>
 
     <description>
         A simple geolocation tool.
